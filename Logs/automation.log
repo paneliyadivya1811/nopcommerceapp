@@ -222,3 +222,59 @@
 03/14/2023 09:45:53 AM: INFO: *******Test_login started********
 03/14/2023 09:45:53 AM: INFO: ***********Verifying Home Page Title***********
 03/14/2023 09:46:03 AM: INFO: *******Home Page Title test is passed********
+03/16/2023 12:45:31 PM: INFO: ************* Test_003_AddCustomer **********
+03/16/2023 12:45:40 PM: INFO: ************* Login succesfully **********
+03/16/2023 12:45:40 PM: INFO: ******* Starting Add Customer Test ******
+03/16/2023 12:45:45 PM: INFO: **********Providing customer info ************ 
+03/16/2023 12:45:56 PM: INFO: *********** saving customer info **************
+03/16/2023 12:45:56 PM: INFO: *** Add customer validation started ***** 
+03/16/2023 12:45:56 PM: INFO:  ********** Add customer Test Passed *********
+03/16/2023 12:46:01 PM: INFO: *******Test_login started********
+03/16/2023 12:46:01 PM: INFO: ***********Verifying Home Page Title***********
+03/16/2023 12:46:14 PM: INFO: *******Home Page Title test is passed********
+03/16/2023 05:49:41 PM: INFO: ************* Test_003_AddCustomer **********
+03/16/2023 05:49:51 PM: INFO: ************* Login succesfully **********
+03/16/2023 05:49:51 PM: INFO: ******* Starting Add Customer Test ******
+03/16/2023 05:49:56 PM: INFO: **********Providing customer info ************ 
+03/16/2023 05:50:07 PM: INFO: *********** saving customer info **************
+03/16/2023 05:50:07 PM: INFO: *** Add customer validation started ***** 
+03/16/2023 05:50:07 PM: INFO:  ********** Add customer Test Passed *********
+03/16/2023 05:50:13 PM: INFO: *******Test_login started********
+03/16/2023 05:50:13 PM: INFO: ***********Verifying Home Page Title***********
+03/16/2023 05:50:23 PM: INFO: *******Home Page Title test is passed********
+03/16/2023 05:50:50 PM: INFO: ************* Test_003_AddCustomer **********
+03/16/2023 05:50:59 PM: INFO: ************* Login succesfully **********
+03/16/2023 05:50:59 PM: INFO: ******* Starting Add Customer Test ******
+03/16/2023 05:51:03 PM: INFO: **********Providing customer info ************ 
+03/16/2023 05:51:15 PM: INFO: *********** saving customer info **************
+03/16/2023 05:51:15 PM: INFO: *** Add customer validation started ***** 
+03/16/2023 05:51:16 PM: INFO:  ********** Add customer Test Passed *********
+03/16/2023 05:51:21 PM: INFO: *******Test_login started********
+03/16/2023 05:51:21 PM: INFO: ***********Verifying Home Page Title***********
+03/16/2023 05:51:32 PM: INFO: *******Home Page Title test is passed********
+03/16/2023 06:08:51 PM: INFO: ************* Test_003_AddCustomer **********
+03/16/2023 06:08:59 PM: INFO: ************* Login succesfully **********
+03/16/2023 06:08:59 PM: INFO: ******* Starting Add Customer Test ******
+03/16/2023 06:09:05 PM: INFO: **********Providing customer info ************ 
+03/16/2023 06:09:15 PM: INFO: *********** saving customer info **************
+03/16/2023 06:09:15 PM: INFO: *** Add customer validation started ***** 
+03/16/2023 06:09:16 PM: INFO:  ********** Add customer Test Passed *********
+03/16/2023 06:09:21 PM: INFO: *******Test_login started********
+03/16/2023 06:09:21 PM: INFO: ***********Verifying Home Page Title***********
+03/16/2023 06:09:32 PM: INFO: *******Home Page Title test is passed********
+03/16/2023 06:31:39 PM: INFO: ************* Test_003_AddCustomer **********
+03/16/2023 06:31:47 PM: INFO: ************* Login succesfully **********
+03/16/2023 06:31:47 PM: INFO: ******* Starting Add Customer Test ******
+03/16/2023 06:31:51 PM: INFO: **********Providing customer info ************ 
+03/16/2023 06:32:01 PM: INFO: *********** saving customer info **************
+03/16/2023 06:32:01 PM: INFO: *** Add customer validation started ***** 
+03/16/2023 06:32:02 PM: INFO:  ********** Add customer Test Passed *********
+03/16/2023 06:32:07 PM: INFO: *******Test_login started********
+03/16/2023 06:32:07 PM: INFO: ***********Verifying Home Page Title***********
+03/16/2023 06:32:17 PM: INFO: *******Home Page Title test is passed********
+04/24/2023 02:26:42 PM: INFO: *******Test_00f1_Login started********
+04/24/2023 02:26:42 PM: INFO: ***********Verifying Home Page Title***********
+04/24/2023 02:26:44 PM: INFO: *******Home Page Title test is passed********
+04/24/2023 02:26:49 PM: INFO: *******Test_login started********
+04/24/2023 02:26:49 PM: INFO: ***********Verifying Home Page Title***********
+04/24/2023 02:27:00 PM: INFO: *******Home Page Title test is passed********
